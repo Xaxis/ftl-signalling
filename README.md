@@ -278,7 +278,7 @@ At a detected flux of $1\times10^{11}$ pairs s$^{-1}$ the integration time is **
 
 3. **Decision rule:** reject null (linear QM) if $\lvert Z\rvert \ge 5$.
 
-Blind-analysis protocols freeze code before decryption of Alice’s bit log, eliminating “peek” bias.  
+Blind-analysis protocols freeze code before decryption of Alice’s bit log, eliminating “peek” bias.   
 
 ---
 
