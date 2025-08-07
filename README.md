@@ -1,5 +1,5 @@
-# **Amplifying Quantum Non-Linearity with Rydberg Slow-Light:  
-A Practical Table-Top Test of Faster-Than-Light Signalling**
+# Amplifying Quantum Non-Linearity with Rydberg Slow-Light:  
+**A Practical Table-Top Test of Faster-Than-Light Signalling**
 
 **Author:** Wil Neeley  
 **Version:** v1.1 — 7 August 2025  
