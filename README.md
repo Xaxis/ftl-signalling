@@ -1,8 +1,11 @@
-# Amplifying Quantum Non-Linearity with Rydberg Slow-Light:  
-**A Practical Table-Top Test of Faster-Than-Light Signalling**
+---
+title: "Amplifying Quantum Non-Linearity with Rydberg Slow-Light"
+description: "A practical table-top tst of faster-than-ligh signalling."
+pubDate: 2025-08-05
+tags: ["ftl", "astrophysics", "blackholes"]
+---
 
-**Author:** Wil Neeley  
-**Version:** v1.1 — 7 August 2025  
+# Amplifying Quantum Non-Linearity with Rydberg Slow-Light
 
 ---
 
